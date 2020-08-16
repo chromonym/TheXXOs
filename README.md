@@ -1,5 +1,5 @@
-### 😶 How I'm feeling:
-📚why📚the📚heck📚are📚there📚so📚many📚tests📚and📚assignments📚halfway📚through📚term📚3📚
+## TheXXOs (Nick L)
+I am a student in Year 10 in South Australia, with an interest in videogames and coding
 
 <!--
 **TheXXOs/TheXXOs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

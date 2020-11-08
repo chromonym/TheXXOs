@@ -1,5 +1,6 @@
 ## TheXXOs (Nick L)
 I am a student in Year 10 in South Australia, with an interest in videogames and coding.
+
 ...and I generally don't finish projects that I start lol
 
 <!--

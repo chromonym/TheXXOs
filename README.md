@@ -1,5 +1,5 @@
 ## TheXXOs (Nick L)
-I am a student in Year 11 in South Australia, with an interest in videogames and coding.
+I am a student in Year 11 in South Australia, with an interest in videogames, coding, [geohashing](https://geohashing.site/), and [conlangs](https://conlang.org/).
 
 ...and I generally don't finish projects that I start lol
 
